@@ -2,7 +2,6 @@ package com.example.twilioTest.controller;
 
 import com.example.twilioTest.request.SendMessageRequest;
 import com.example.twilioTest.response.TwilioResponse;
-import com.example.twilioTest.service.TwilioSimpleTextService;
 import com.example.twilioTest.service.TwilioWhatsappText;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;

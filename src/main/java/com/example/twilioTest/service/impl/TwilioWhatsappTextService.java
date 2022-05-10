@@ -4,7 +4,6 @@ import com.example.twilioTest.constant.PathConstants;
 import com.example.twilioTest.constant.TwilioCreds;
 import com.example.twilioTest.request.SendMessageRequest;
 import com.example.twilioTest.response.TwilioResponse;
-import com.example.twilioTest.service.TwilioSimpleTextService;
 import com.example.twilioTest.service.TwilioWhatsappText;
 import com.twilio.Twilio;
 import com.twilio.rest.api.v2010.account.Message;
